@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:lightblue;
+}
+nav a{
+    margin:10px;
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    border:navy;
+    border-radius: 20px;
+    background-color: navy;
+
+}
+main{
+    color:orange;
+    
+}
+footer{
+    background-color: burlywood;
+}
+select{
+  padding:10px;
+  background-color: white;
+  color:royalblue;
+  border-radius:10px;
+  font-size:20px;
+  border:3px solid navy;  
+}
+select option{
+    color:white;
+    background-color:navy;
+}
+footer p{
+    background-color:white;
+    color:black;
+}
